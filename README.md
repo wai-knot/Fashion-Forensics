@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# 📌Fashion_forensics
+# 📌Fashion_Forensics
 
 *Introduction:*
 
@@ -116,15 +116,25 @@ By looking at these three things, we can see which customers are buying from us 
 
 # 📚Conclusions and Recommendations
 - Conclusions
-  - Based on the company's sales and revenue results in the last few months, it can be seen that March had the highest number of orders, with 117 orders. However, there was a significant decrease in the number of orders in February, April, May and October. This also has an impact on company revenue. To overcome this decline, further analysis needs to be carried out regarding factors such as the existence of competitors and marketing campaigns.
+  We looked at how the company did over the past few months. Here's what we found:
 
-  - In terms of product sales, Denim products were the most sold with 527 units, while Mandarin Collar products were the least sold with 236 units.
+- Sales Up and Down: March was our busiest month with lots of orders, but things slowed down in February, April, May, and October. This meant less money coming in.
 
-  - Customer demographics show that most customers do not disclose information about their gender. However, the majority of customers are in the adult age group, with 416 customers. Most customers come from the state of South Australia.
+- Denim is Popular: Denim clothes were our best sellers, but not many people bought Mandarin collar styles.
 
-  - Lastly, customers made transactions at least a day ago, some even made transactions on the same day. A customer usually makes five or six purchases in the last few months. The customer who spent the most money was AUD 7632.
+- Most Customers are Adults: We don't know much about our customers' genders, but most are adults and live in South Australia.
+
+- Customers Buy Often: People are buying things from us pretty regularly, sometimes even on the same day. One person spent a lot of money, about $7,632.
 
 - Recommendations
-  - Based on these results, companies can focus more on increasing sales in months with decreasing orders. Apart from that, companies can also expand their marketing strategies and identify new opportunities to attract more customers. It is also important to maintain and increase existing customer satisfaction by providing good service and quality products.
+  Based on what we found, here's what we can do to improve:
+
+- Boost Slow Months: We need to figure out why sales dropped in some months and find ways to sell more then. Maybe there's something our competitors are doing, or we need a better marketing plan.
+
+- Focus on What Sells: Since denim is popular, we could try selling more denim styles. We should also think about why people aren't buying Mandarin collar clothes.
+
+- Find More Customers: We need to reach out to new customers and find ways to get them to buy from us.
+
+- Keep Customers Happy: We should make sure our customers are happy with their purchases by giving good service and selling quality products. This will help them keep coming back.
 
 <p align="right"><a href="#top">Back to top</a></p>
