@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# 📌Online_Fashion_Data_Analysis
+# 📌Fashion_forensics
 
 *Introduction:*
 
@@ -77,7 +77,7 @@ How has the company's sales and revenue performance been in the last few months?
 
 - Sales Performance in Recent Months
 <p align="center">
-  <img alt="Number of Orders per Month (2021)" title="Number of Orders per Month (2021)" src="https://github.com/nurkholiqaganihafid/Online_Fashion_Data_Analysis/assets/89395541/d00a4f03-93e5-4960-9ab4-c6f8b9a61dd4" width="750">
+  <img alt="Number of Orders per Month (2021)" title="Number of Orders per Month (2021)" src="https://github.com/nurkholiqaganihafid/fashion_forensics/assets/89395541/d00a4f03-93e5-4960-9ab4-c6f8b9a61dd4" width="750">
 </p>
 
 - Company Revenue in Recent Months
