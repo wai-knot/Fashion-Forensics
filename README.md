@@ -1,16 +1,35 @@
 <div id="top"></div>
 
 # 📌Online_Fashion_Data_Analysis
-- __*Online Fashion Analysis*__ is a data analysis project that uses sales data from a fashion company called Dicoding Collection (DiCo). DiCo is an online company that produces and sells various fashion items. DiCo realizes the importance of data in developing a business, so they store all sales history, product information, and customer data in a database.
-- The goal of this project was to evaluate the company's sales performance, understand the most and least sold fashion products, and gain a deeper understanding of customer demographics. By understanding customers better, DiCo can create more efficient campaign strategies.
-- This database consists of four tables, including **customers**, **orders**, **products**, and **sales**. [Legend](https://github.com/nurkholiqaganihafid/Online_Fashion_Data_Analysis/blob/main/dataset/Legend.txt)
-- This project uses a data analysis cycle, namely:
-  - Question (Business Questions)
-  - Data Wrangling
-  - Exploratory Data Analysis (EDA)
-  - Data Visualization
-  - Draw Conclusion
-  - Project Result Link: [Click here](https://github.com/nurkholiqaganihafid/Online_Fashion_Data_Analysis/blob/main/Online_Fashion_Data_Analysis.ipynb)
+
+*Introduction:*
+
+Dicoding Collection (DiCo) is an online fashion company that recognizes the value of data-driven decision making. They meticulously store all their sales history, product information, and customer details in a centralized database. This project aims to leverage this data to analyze DiCo's sales performance, identify top-selling and underperforming products, and gain valuable insights into their customer demographics. By understanding their customer base better, DiCo can develop more effective marketing campaigns.
+
+*Data Analysis Process:*
+
+This project will follow a structured data analysis approach consisting of the following key steps:
+
+1. Business Questions:* 
+
+2. *Data Wrangling:* 
+    - In this initial phase, we will clean and prepare the data from the four tables (customers, orders, products, and sales) within the database. This might involve tasks like removing inconsistencies, fixing missing values, and formatting data for optimal analysis. 
+
+3. *Exploratory Data Analysis (EDA):* 
+    - Once the data is wrangled, we will perform an initial exploration to uncover patterns and trends. This might include calculating summary statistics, identifying relationships between variables, and visualizing the data to gain a deeper understanding. 
+
+4. *Data Visualization:* 
+    - To effectively communicate our findings, we will create visual representations of the data. This could involve charts, graphs, or other infographics that clearly showcase trends and patterns identified during the EDA stage. 
+
+5. *Draw Conclusion:* 
+    - After analyzing the prepared data and visualizations, we will draw conclusions about DiCo's sales performance, customer demographics, and product popularity. This will involve interpreting the findings and formulating actionable insights that can inform business decisions.
+
+*Project Deliverables:*
+
+- A comprehensive report outlining the analysis process, key findings, and actionable insights.
+- Data visualizations that effectively communicate the project's conclusions.
+
+*Project Result Link:* Click here (https://github.com/nurkholiqaganihafid/Online_Fashion_Data_Analysis/blob/main/Online_Fashion_Data_Analysis.ipynb)
 
 # 📌Outline
 - [Business Questions](#business-questions) 
