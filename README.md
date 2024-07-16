@@ -10,7 +10,7 @@ Dicoding Collection (DiCo) is an online fashion company that recognizes the valu
 
 This project will follow a structured data analysis approach consisting of the following key steps:
 
-1. Business Questions:* 
+1. Business Questions:
 
 2. *Data Wrangling:* 
     - In this initial phase, we will clean and prepare the data from the four tables (customers, orders, products, and sales) within the database. This might involve tasks like removing inconsistencies, fixing missing values, and formatting data for optimal analysis. 
@@ -29,23 +29,9 @@ This project will follow a structured data analysis approach consisting of the f
 - A comprehensive report outlining the analysis process, key findings, and actionable insights.
 - Data visualizations that effectively communicate the project's conclusions.
 
-*Project Result Link:* Click here (https://github.com/nurkholiqaganihafid/Online_Fashion_Data_Analysis/blob/main/Online_Fashion_Data_Analysis.ipynb)
-
-# 📌Outline
-- [Business Questions](#business-questions) 
-- [Results](#dartresults)
-  - [Streamlit Dashboard](#streamlit-dashboard)
-  - [My Analysis Results](#my-analysis-results)
-    - [Merging all Data](#merging-all-data)
-    - [Data Visualization](#data-visualization)
-      - [1st Question](#1st-question)
-      - [2nd Question](#2nd-question)
-      - [3rd Question](#3rd-question)
-      - [RFM Analysis (4th - 6th Questions)](#rfm-analysis)
-- [Conclusions and Recommendations](#conclusions-and-recommendations)
 
 # 🎯Business Questions
-[👆](#outline)
+
 Business questions that will be answered through this data analysis include:
 1. How has the company's sales and revenue performance been in the last few months?
 2. What products sell the most and least?
@@ -56,7 +42,7 @@ Business questions that will be answered through this data analysis include:
 
 # :dart:Results
 ## 📊Streamlit Dashboard
-[👆](#outline)
+
 Link Streamlit Dashboard: [Dicoding Collection Dashboard](https://nurkholiq-online-fashion-data-analysis.streamlit.app/)
 
 <p align="center">
@@ -65,14 +51,14 @@ Link Streamlit Dashboard: [Dicoding Collection Dashboard](https://nurkholiq-onli
 
 ## 📈My Analysis Results
 ### Merging all Data
-[👆](#outline) Total Data from the Merge Results
+Total Data from the Merge Results
 <p align="center">
   <img alt="Data Frame" title="Data Frame" src="https://github.com/nurkholiqaganihafid/Online_Fashion_Data_Analysis/assets/89395541/391487aa-1cc9-4fea-b621-cd3170f920c1" width="400">
 </p>
 
 ### Data Visualization
 #### 1st Question
-[👆](#outline)
+
 How has the company's sales and revenue performance been in the last few months?
 
 - Sales Performance in Recent Months
@@ -86,7 +72,7 @@ How has the company's sales and revenue performance been in the last few months?
 </p>
 
 #### 2nd Question
-[👆](#outline)
+
 What products sell the most and least?
 - Best and Worst Performing Product by Number of Sales
 <p align="center">
@@ -94,7 +80,7 @@ What products sell the most and least?
 </p>
 
 #### 3rd Question
-[👆](#outline)
+
 What are the customer demographics of the company?
 
 - By gender
@@ -113,7 +99,7 @@ What are the customer demographics of the company?
 </p>
 
 #### RFM Analysis
-[👆](#outline)
+
 To answer the last three analysis questions, an analysis technique, namely RFM analysis, can be used.
 - Recency: a parameter used to see the last time a customer made a transaction.
 - Frequency: This parameter is used to identify how often a customer makes transactions.
