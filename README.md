@@ -100,10 +100,15 @@ What are the customer demographics of the company?
 
 #### RFM Analysis
 
-To answer the last three analysis questions, an analysis technique, namely RFM analysis, can be used.
-- Recency: a parameter used to see the last time a customer made a transaction.
-- Frequency: This parameter is used to identify how often a customer makes transactions.
-- Monetary: This last parameter is used to identify how much revenue comes from that customer.
+To figure out which customers are the most important, we can use something called RFM analysis. This method looks at three things about each customer:
+
+Recency: How long ago did they buy something from us?
+
+Frequency: How often do they buy from us?
+
+Monetary Value: How much money do they spend when they shop with us?
+
+By looking at these three things, we can see which customers are buying from us recently, often, and spending the most money.
 
 <p align="center">
   <img alt="Best Customer Based on RFM Parameters (customer_id)" title="Best Customer Based on RFM Parameters (customer_id)" src="https://github.com/nurkholiqaganihafid/Online_Fashion_Data_Analysis/assets/89395541/48617f92-7044-4eeb-9586-a27c86deb55b" width="750">
